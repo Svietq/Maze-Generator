@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+maze_generator.pro
+maze_generator.pro.user
